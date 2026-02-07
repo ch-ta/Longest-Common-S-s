@@ -1,0 +1,57 @@
+problem:longest common substring
+
+dataset:
+
+length:10
+	a:ACxnuzhwz2
+	b:wdUzHD9a8j
+
+length:12
+	a:RHFdJQSoHt7e
+	b:MPrqGTUqUsOa
+
+length:14
+	a:t6onddhuqD7e2f
+	b:tSSByCBpiX2f5Z
+
+length:16
+	a:yFrvswJ2VOyGRyoj
+	b:WOZaFwO47BvswJU6
+
+length:18
+	a:rM9d7tOlSx6C5XdlfO
+	b:114Gh0PgGt9FpNgqDO
+
+length:19
+	a:XE82YldzQSfZdFAQIvI
+	b:pNLBmj4dRUZ8h8EAPth
+
+
+length:20
+	a:YDy6CvIwJFSLTU71xP4r
+	b:itQKb4aBHIwV9SbyZE30
+
+
+length:30
+	a:zgdGAhmjLKhWYklVfl2eqvSEBQvnw7
+	b:s6S5UQFpHStHD5GzLZGit4vVhQ8nmA
+
+length:40
+	a:KLC142f0SX9kny6d4nlgH39TFnrKczYNgTD1HdOd
+	b:LUiO5IrF6faecnUKloPfj2AS8kTZxXH9q4GuraVO
+
+length:50
+	a:p5sErhwo1MZbHE8vX57O0aefv3njB0qXgHVdD7stabqbUdVVkw
+	b:5OnTNZJpdesG8vqSjyVwx9vIPCNY1jhL4Fl7oM2fO1DIZJXQx0
+
+length:80
+	a:yIN60yiIOYIzFJJ7tZik7yiAHUqd3HsaduesjIyJfY5F1BrmRvadbOQJbgdpd3t5SvngXm8rBggeOXdd
+	b:SX04ITLwaKl82a7kNrcxBywZduN2xI13A7lUjcsI5DoIMpNIrb2YOGejqhcW888OKTKY84dCzld6ElG7	
+
+length:100
+	a:SYrWOTnTi1fTMNW8JLjhj2YtqfTpoWd8NhEII98JeGodBnlNEO0L76XgXfWFNtcqSsPVcvinCniYleCTqSnoqsKufE3cruByERua
+	b:4R3hMZvR0OclQSBpA1QllP8zR0m50H8MWHAltdbyiOT3yRrNbYE7NN8ayXmhyKseKxz7w2bSt65P1Jig8rId2X8zW2cc1MUGNAbW
+
+length:120
+	a:f70llehBDvo5aB7F3qpBFLvsG5OKHUbyCT0uWeMXSfbNnZeFiVmXSCO4uYWjNiyIuvjV8tgVS2AayUa7L0MaZrPvnmByPAqmFIjXxaeN3aeZFzuKpBAayH1c
+	b:N6j2VUuuhH8i0jYhmGoIc1nNcPp6NqlDo81EB2xwlTTNDHwBnoMbrE3LG8LhsqpbHxnDAumJL4UsoWBbTLWv2fzqBAlP7SuszCayghM3d42wroW8pm0xgHo1	
