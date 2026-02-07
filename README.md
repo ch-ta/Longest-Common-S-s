@@ -1,3 +1,4 @@
-# AE-P3
+# Algorithm Engineering Project 3
 
-Summer 2019 Algorithm Engineering Project 3
+- Longest Common Subsequence
+- Longest Common Substring
